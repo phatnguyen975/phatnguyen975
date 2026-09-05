@@ -1,22 +1,19 @@
-name: Generate Activity Graph
+name: Generate Profile Assets
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
-    name: Generate Activity Graph
+    name: Generate Profile Assets
     runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
-
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
@@ -25,7 +22,14 @@ jobs:
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish activity graph
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: phatnguyen975
+          outputs: |
+            dist/contribution-snake.svg?color_snake=#7aa2f7&color_dots=#1e3a5f,#2d6a9f,#3b82f6,#60a5fa,#93c5fd
+
+      - name: Publish profile assets
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

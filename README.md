@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,60:1e3a5f,100:2d6a9f&height=220&section=header&text=Nguyễn%20Tấn%20Phát&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Backend%20Engineer%20crafting%20systems%20that%20scale%20with%20purpose&descAlignY=62&descSize=17&descColor=e2e8f0&animation=twinkling&stroke=7aa2f7&strokeWidth=1" alt="header"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=400&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=120&lines=Backend+Engineer+%40+HCMUS%2C+Ho+Chi+Minh+City;Spring+Boot+%7C+Modular+Monolith+%7C+Clean+Architecture;System+Design+%26+Distributed+Patterns;Spec-Driven+%2B+Test-Driven+Development" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,60:1e3a5f,100:2d6a9f&height=250&section=header&text=Nguyễn%20Tấn%20Phát&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Backend%20Engineer%20crafting%20scalable%20and%20reliable%20systems&descAlignY=62&descSize=17&descColor=e2e8f0&animation=twinkling&stroke=7aa2f7&strokeWidth=1" width="100%" alt="header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=400&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=120&lines=Backend+Engineer+%40+HCMUS%2C+Ho+Chi+Minh+City;Spring+Boot+%7C+Modular+Monolith+%7C+Clean+Architecture;System+Design+%26+Distributed+Patterns;Spec-Driven+%26+Test-Driven+Development" width="100%" alt="Typing SVG"/>
 </div>
 
 ## About Me
@@ -9,11 +9,25 @@ I'm a **Backend Engineer** focused on building systems that are **correct before
 
 I keep up with the fast pace of the industry not to chase trends, but to make informed, grounded decisions about what's worth adopting.
 
-- **Education** — B.Sc. Computer Science, University of Science (HCMUS), Ho Chi Minh City, Vietnam
-- **Current focus** — Backend engineering with Spring Boot; system design and distributed architecture patterns
-- **Future direction** — Planning a deeper dive into Golang and a gradual migration of backend systems to leverage its simplicity and runtime efficiency
-- **AI-assisted development** — Spec-Driven + Test-Driven Development as the core workflow
-- **Location** — Ho Chi Minh City, Vietnam
+- **Education:** B.Sc. Computer Science, University of Science (HCMUS), Ho Chi Minh City, Vietnam
+- **Current focus:** Backend engineering with Spring Boot; system design and distributed architecture patterns
+- **Future direction:** Planning a deeper dive into Golang and a gradual migration of backend systems to leverage its simplicity and runtime efficiency
+- **AI-assisted development:** Spec-Driven + Test-Driven Development as the core workflow
+- **Location:** Ho Chi Minh City, Vietnam
+
+## Contact Me
+
+<p>
+  <a href="mailto:phatnguyen9725@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/search/results/all/?keywords=phatnguyen9725%40gmail.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/phatnguyen975">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ## Tech Stack
 
@@ -83,7 +97,7 @@ I keep up with the fast pace of the industry not to chase trends, but to make in
 | Principle                   | Approach                                                                                                                                                                                                |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Modular Monolith**        | Structure the codebase around explicit, well-bounded modules with enforced isolation — treat each module as a potential future service without paying the operational cost of microservices prematurely |
-| **Clean Architecture**      | Keep domain logic free of framework and infrastructure concerns. Dependencies always point inward: domain ← application ← infrastructure. The core must be testable in isolation                        |
+| **Clean Architecture**      | Keep domain logic free of framework and infrastructure concerns. Dependencies always point inward: Domain ← Application ← Infrastructure. The core must be testable in isolation                        |
 | **Event-Driven Design**     | Introduce async messaging where it genuinely reduces coupling or handles temporal decoupling — not as a default pattern applied everywhere                                                              |
 | **No Over-Engineering**     | Every added abstraction must solve a real, present problem. Favour the simplest design that passes the tests and survives the next change                                                               |
 | **Spec-Driven Development** | Write the contract, expected behaviour, and edge cases before implementation. The spec is the source of truth — code and tests are derived from it                                                      |
@@ -92,30 +106,18 @@ I keep up with the fast pace of the industry not to chase trends, but to make in
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=phatnguyen975&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=86400" height="170" alt="GitHub Stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=phatnguyen975&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=phatnguyen975&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&cache_seconds=86400" height="180" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=phatnguyen975&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=phatnguyen975&theme=tokyonight&hide_border=true&cache_seconds=86400&card_width=600" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=phatnguyen975&theme=tokyonight&hide_border=true&cache_seconds=86400&card_width=700" alt="GitHub Streak"/>
 </div>
 
-## Contact Me
-
-<p>
-  <a href="mailto:phatnguyen9725@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/search/results/all/?keywords=phatnguyen9725%40gmail.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/phatnguyen975">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phatnguyen975&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400" width="100%" alt="Activity Graph"/>
-  <img src="https://raw.githubusercontent.com/phatnguyen975/phatnguyen975/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,60:1e3a5f,100:2d6a9f&height=120&section=footer" alt="footer"/>
+  <img src="https://raw.githubusercontent.com/phatnguyen975/phatnguyen975/output/activity-graph.svg" width="100%" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/phatnguyen975/phatnguyen975/output/contribution-snake.svg" width="100%" alt="Contribution Snake"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,60:1e3a5f,100:2d6a9f&height=120&section=footer" width="100%" alt="footer"/>
 </div>
