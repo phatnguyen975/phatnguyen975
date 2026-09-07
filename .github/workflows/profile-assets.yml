@@ -27,7 +27,7 @@ jobs:
         with:
           github_user_name: phatnguyen975
           outputs: |
-            dist/contribution-snake.svg?color_snake=#f7768e&color_dots=#ffffff,#c3e4fd,#7aa2f7,#3d6fd6,#1a3a8f
+            dist/contribution-snake.svg?color_snake=#f7768e&color_dots=#eaeaea,#c3e4fd,#7aa2f7,#3d6fd6,#1a3a8f
 
       - name: Publish profile assets
         uses: crazy-max/ghaction-github-pages@v3
