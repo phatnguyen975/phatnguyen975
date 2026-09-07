@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,60:1e3a5f,100:2d6a9f&height=250&section=header&text=Nguyễn%20Tấn%20Phát&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Backend%20Engineer%20crafting%20scalable%20and%20reliable%20systems&descAlignY=62&descSize=17&descColor=e2e8f0&animation=twinkling&stroke=7aa2f7&strokeWidth=1" width="100%" alt="header"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=400&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=120&lines=Backend+Engineer+%40+HCMUS%2C+Ho+Chi+Minh+City;Spring+Boot+%7C+Modular+Monolith+%7C+Clean+Architecture;System+Design+%26+Distributed+Patterns;Spec-Driven+%26+Test-Driven+Development" width="100%" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=400&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=120&lines=Backend+Engineer+%40+HCMUS%2C+Ho+Chi+Minh+City;Spring+Boot+%E2%98%85+Modular+Monolith+%E2%98%85+Clean+Architecture;System+Design+%E2%98%85+Distributed+Patterns;Spec-Driven+Development+%E2%98%85+Test-Driven+Development" width="100%" alt="Typing SVG"/>
 </div>
 
 ## About Me
@@ -12,7 +12,8 @@ I keep up with the fast pace of the industry not to chase trends, but to make in
 - **Education:** B.Sc. Computer Science, University of Science (HCMUS), Ho Chi Minh City, Vietnam
 - **Current focus:** Backend engineering with Spring Boot; system design and distributed architecture patterns
 - **Future direction:** Planning a deeper dive into Golang and a gradual migration of backend systems to leverage its simplicity and runtime efficiency
-- **AI-assisted development:** Spec-Driven + Test-Driven Development as the core workflow
+- **AI-assisted development:** Spec-Driven and Test-Driven Development as the core workflow
+- **Interests:** System design, clean code principles, developer tooling, and the intersection of AI with software engineering workflows
 - **Location:** Ho Chi Minh City, Vietnam
 
 ## Contact Me
@@ -44,6 +45,7 @@ I keep up with the fast pace of the industry not to chase trends, but to make in
 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Modulith-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -63,6 +65,7 @@ I keep up with the fast pace of the industry not to chase trends, but to make in
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
@@ -81,11 +84,11 @@ I keep up with the fast pace of the industry not to chase trends, but to make in
 **Tools & Environment**
 
 <p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana%20k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
 </p>
